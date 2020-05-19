@@ -1,6 +1,6 @@
 # omnifoods.github.io
 
-~Created by Shashank Agarwal
+### Created by Shashank Agarwal ###
 
 Imaginary Website Styling and Developed.
 
