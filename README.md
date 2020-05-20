@@ -2,11 +2,12 @@
 
 ### Created by Shashank Agarwal ###
 
-Imaginary Website Styling and Developed.
+Imaginary E-commerece Website Styled and Developed.
 
 Languages Used: HTML5 and CSS3.
 
-Dependencies: ionicons.com
+Dependencies: ionicons.com.
+              fonts.google.com
 
 ### Content is Described Below ###
 Main Navigation:
